@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/influenza/static/css/main.ad88968f.chunk.css",
+    "main.js": "/influenza/static/js/main.0150ecc8.chunk.js",
+    "main.js.map": "/influenza/static/js/main.0150ecc8.chunk.js.map",
+    "runtime-main.js": "/influenza/static/js/runtime-main.2caddc62.js",
+    "runtime-main.js.map": "/influenza/static/js/runtime-main.2caddc62.js.map",
+    "static/js/2.34807d2d.chunk.js": "/influenza/static/js/2.34807d2d.chunk.js",
+    "static/js/2.34807d2d.chunk.js.map": "/influenza/static/js/2.34807d2d.chunk.js.map",
+    "static/js/3.4d43a332.chunk.js": "/influenza/static/js/3.4d43a332.chunk.js",
+    "static/js/3.4d43a332.chunk.js.map": "/influenza/static/js/3.4d43a332.chunk.js.map",
+    "index.html": "/influenza/index.html",
+    "static/css/main.ad88968f.chunk.css.map": "/influenza/static/css/main.ad88968f.chunk.css.map",
+    "static/js/2.34807d2d.chunk.js.LICENSE.txt": "/influenza/static/js/2.34807d2d.chunk.js.LICENSE.txt",
+    "static/media/Indigenous.bc52b435.jpeg": "/influenza/static/media/Indigenous.bc52b435.jpeg",
+    "static/media/Young.c274aa0c.jpeg": "/influenza/static/media/Young.c274aa0c.jpeg",
+    "static/media/graph1.0d6c8736.png": "/influenza/static/media/graph1.0d6c8736.png",
+    "static/media/graph2.8cb12964.png": "/influenza/static/media/graph2.8cb12964.png",
+    "static/media/graph3.494c0738.png": "/influenza/static/media/graph3.494c0738.png",
+    "static/media/image 1.9ab2e88f.png": "/influenza/static/media/image 1.9ab2e88f.png",
+    "static/media/image 2.39be935f.png": "/influenza/static/media/image 2.39be935f.png",
+    "static/media/image 3.36b85bd9.png": "/influenza/static/media/image 3.36b85bd9.png",
+    "static/media/image 4.ceebeaf2.png": "/influenza/static/media/image 4.ceebeaf2.png",
+    "static/media/image 5.f9d7743c.png": "/influenza/static/media/image 5.f9d7743c.png",
+    "static/media/image 6.0aa1eb2e.png": "/influenza/static/media/image 6.0aa1eb2e.png",
+    "static/media/image 7.93e0e402.png": "/influenza/static/media/image 7.93e0e402.png",
+    "static/media/image 8.37cbd7f1.png": "/influenza/static/media/image 8.37cbd7f1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2caddc62.js",
+    "static/js/2.34807d2d.chunk.js",
+    "static/css/main.ad88968f.chunk.css",
+    "static/js/main.0150ecc8.chunk.js"
+  ]
+}
