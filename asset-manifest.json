@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/influenza/static/css/main.ad88968f.chunk.css",
-    "main.js": "/influenza/static/js/main.0150ecc8.chunk.js",
-    "main.js.map": "/influenza/static/js/main.0150ecc8.chunk.js.map",
+    "main.js": "/influenza/static/js/main.5f725f7c.chunk.js",
+    "main.js.map": "/influenza/static/js/main.5f725f7c.chunk.js.map",
     "runtime-main.js": "/influenza/static/js/runtime-main.2caddc62.js",
     "runtime-main.js.map": "/influenza/static/js/runtime-main.2caddc62.js.map",
     "static/js/2.34807d2d.chunk.js": "/influenza/static/js/2.34807d2d.chunk.js",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.2caddc62.js",
     "static/js/2.34807d2d.chunk.js",
     "static/css/main.ad88968f.chunk.css",
-    "static/js/main.0150ecc8.chunk.js"
+    "static/js/main.5f725f7c.chunk.js"
   ]
 }
